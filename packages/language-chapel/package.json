@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14670-1m8gsnk/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14670-1m8gsnk/package.tgz",
+        "spec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14670-1m8gsnk/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/apm-install-dir-117128-14670-gqmqfq"
+    ]
+  ],
+  "_from": "../d-117128-14670-1m8gsnk/package.tgz",
+  "_id": "language-chapel@0.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-chapel",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14670-1m8gsnk/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14670-1m8gsnk/package.tgz",
+    "spec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14670-1m8gsnk/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117128-14670-1m8gsnk/package.tgz",
+  "_shasum": "b2e3cb5f4c6eb282d72fb80859646cf08a24eaee",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14670-1m8gsnk/package.tgz",
+  "_where": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/apm-install-dir-117128-14670-gqmqfq",
+  "bugs": {
+    "url": "https://github.com/fsouza/language-chapel/issues"
+  },
+  "dependencies": {},
+  "description": "Chapel language support in Atom",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "homepage": "https://github.com/fsouza/language-chapel#readme",
+  "license": "Apache Public License 2.0",
+  "name": "language-chapel",
+  "optionalDependencies": {},
+  "readme": "# Chapel language support in Atom\n\n[![Build Status](https://travis-ci.org/fsouza/language-chapel.svg)](https://travis-ci.org/fsouza/language-chapel)\n\nAdds syntax highlighting and snippets to Chapel files in Atom.\n\nOriginally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle)\nfrom the [Go TextMate bundle](https://github.com/chapel-lang/chapel-tmbundle).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsouza/language-chapel.git"
+  },
+  "version": "0.1.1"
+}

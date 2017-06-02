@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14689-1n2gsxt/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14689-1n2gsxt/package.tgz",
+        "spec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14689-1n2gsxt/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/apm-install-dir-117128-14689-1ji95rf"
+    ]
+  ],
+  "_from": "../d-117128-14689-1n2gsxt/package.tgz",
+  "_id": "language-chatscript@2.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/language-chatscript",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14689-1n2gsxt/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14689-1n2gsxt/package.tgz",
+    "spec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14689-1n2gsxt/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117128-14689-1n2gsxt/package.tgz",
+  "_shasum": "11d46ace38bdb800e51d57d96f7544db8664fd62",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117128-14689-1n2gsxt/package.tgz",
+  "_where": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/apm-install-dir-117128-14689-1ji95rf",
+  "bugs": {
+    "url": "https://github.com/ragekit/atom-chatscript/issues"
+  },
+  "dependencies": {},
+  "description": "Chatscript syntax highlighting",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/ragekit/atom-chatscript#readme",
+  "keywords": [],
+  "license": "MIT",
+  "name": "language-chatscript",
+  "optionalDependencies": {},
+  "readme": "# language-chatscript package\n\nChatscript syntax highlighting, converted from : https://github.com/joshuasnowball/chatscript-tmlanguage\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragekit/atom-chatscript.git"
+  },
+  "version": "2.0.0"
+}

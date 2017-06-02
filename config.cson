@@ -1,0 +1,25 @@
+"*":
+  core:
+    disabledPackages: [
+      "editorconfig"
+      "terminal-plus"
+    ]
+    telemetryConsent: "no"
+  "exception-reporting":
+    userId: "set your own userId"
+  "imdone-atom": {}
+  "linter-ui-default":
+    showPanel: true
+  "platformio-ide-terminal":
+    core:
+      mapTerminalsTo: "Folder"
+    style:
+      fontSize: "11"
+      theme: "dracula"
+  "terminal-plus":
+    core:
+      mapTerminalsTo: "Folder"
+    style:
+      theme: "dracula"
+  welcome:
+    showOnStartup: false

@@ -1,0 +1,64 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117329-2709-j1uhkb.ur6v7mygb9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117329-2709-j1uhkb.ur6v7mygb9/package.tgz",
+        "spec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117329-2709-j1uhkb.ur6v7mygb9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/apm-install-dir-117329-2709-11nmmz2.5cfy3krzfr"
+    ]
+  ],
+  "_from": "../d-117329-2709-j1uhkb.ur6v7mygb9/package.tgz",
+  "_id": "editor-stats@0.17.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/editor-stats",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117329-2709-j1uhkb.ur6v7mygb9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117329-2709-j1uhkb.ur6v7mygb9/package.tgz",
+    "spec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117329-2709-j1uhkb.ur6v7mygb9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-117329-2709-j1uhkb.ur6v7mygb9/package.tgz",
+  "_shasum": "685d58558f7d6890aadc4812468f619f48c9d305",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/d-117329-2709-j1uhkb.ur6v7mygb9/package.tgz",
+  "_where": "/private/var/folders/xv/flzxy35170z3pld1jw571ymm0000gn/T/apm-install-dir-117329-2709-11nmmz2.5cfy3krzfr",
+  "bugs": {
+    "url": "https://github.com/atom/editor-stats/issues"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "d3-browserify": "3.3.13",
+    "underscore-plus": "1.x"
+  },
+  "description": "Display a graph of keyboard and mouse usage for the last 6 hours.",
+  "devDependencies": {},
+  "engines": {
+    "atom": "*"
+  },
+  "homepage": "https://github.com/atom/editor-stats#readme",
+  "license": "MIT",
+  "main": "./lib/editor-stats",
+  "name": "editor-stats",
+  "optionalDependencies": {},
+  "readme": "# Editor Stats package [![Build Status](https://travis-ci.org/atom/editor-stats.svg?branch=master)](https://travis-ci.org/atom/editor-stats)\n\nView a graph of your mouse and keyboard activity for the last 6 hours.\n\nThe blue bar indicates the time of greatest activity.\n\nYou can toggle it using the `Editor Stats: Toggle` command from the command palette.\n\n![](https://f.cloud.github.com/assets/671378/2262223/843b1172-9e57-11e3-9c60-8d28d542f39c.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atom/editor-stats.git"
+  },
+  "version": "0.17.0"
+}
